@@ -1,0 +1,1 @@
+[{"model": "posts.category", "pk": 1, "fields": {"name": "공지사항"}}, {"model": "posts.category", "pk": 2, "fields": {"name": "상품리뷰"}}, {"model": "posts.category", "pk": 3, "fields": {"name": "자유게시판"}}, {"model": "posts.category", "pk": 4, "fields": {"name": "문의하기"}}, {"model": "posts.category", "pk": 5, "fields": {"name": "기타"}}]
